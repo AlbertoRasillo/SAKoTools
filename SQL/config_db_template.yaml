@@ -1,0 +1,5 @@
+database:
+  host: host
+  user: user_name
+  password: pass
+  database: database_name
